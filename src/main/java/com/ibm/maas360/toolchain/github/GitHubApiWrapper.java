@@ -14,7 +14,7 @@ public class GitHubApiWrapper
     private static final Logger logger = Logger.getLogger(GitHubApiWrapper.class.getSimpleName());
 
     private static final String GITHUB_ENTERPRISE_URL = "https://github.ibm.com/api/v3";
-    private static final String GITHUB_TOKEN = "6fc8d0904a51b022e1bf45d0d5b9e0fe78c2a300";
+    private static final String GITHUB_TOKEN = "<Github token>";
 
     private final GitHub github;
 
