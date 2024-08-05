@@ -1,10 +1,12 @@
-# Twistlock-issues
+# compliance-incident-issues
 
-Template repository to clone twistlock-issues for reference compliance toolchain templates.
+Template repository to clone compliance-incident-issues for reference compliance toolchain templates.
 
 ## Purpose of this repository
 
 This repository serves as an incident issue board for reference compliance toolchain templates.
+
+In case of multiple services under one organization or application, or multiple ci/cd pipelines, it is good to have a single repository to collect compliance incident issues from all services.
 
 This repo can be replaced with a single microservice repo, the same that holds the code itself, so incidents will be recorded to the issues of that repo.
 

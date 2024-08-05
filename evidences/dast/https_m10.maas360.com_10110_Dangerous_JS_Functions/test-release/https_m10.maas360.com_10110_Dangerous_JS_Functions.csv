@@ -1,2 +1,0 @@
-uri,method,param,attack,evidence,otherinfo,pluginid,alertRef,alert,name,riskcode,confidence,riskdesc,desc,solution,reference,cweid,wascid,sourceid
-"https://m10.maas360.com/emc/","GET",,,"eval",,"10110","10110","Dangerous JS Functions","Dangerous JS Functions","1","1","Low (Low)","A dangerous JS function seems to be in use that would leave the site vulnerable. ","See the references for security advice on the use of these functions. ","https://angular.io/guide/security ","[749](https://cwe.mitre.org/data/definitions/749.html)","-1","1"
